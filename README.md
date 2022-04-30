@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fajarcarson
-- 🏠 Live In : Bandung, Indonesia
-- 🗽 Informatics Engineering 2020
-- 📫 How to reach me : 
-     • muhammadfajarr05@gmail.com
+- 👋 Hi, I’m <b>@fajarcarson</b>
+- 🏠 Live In : <b>Bandung, Indonesia</b>
+- 🗽 Studying At : <b>Informatics Engineering 2020</b>
+- 📫 How to reach me : <b>muhammadfajarr05@gmail.com</b>
 
 <!---
 fajarcarson/fajarcarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
