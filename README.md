@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @fajarcarson
+- 🏠Live In : Bandung, Indonesia
 - 📫 How to reach me : @muhammadfajarr05@gmail.com
 
 <!---
